@@ -1,0 +1,11 @@
+#Default Go gitignore
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+#Upload folder
+upload/
